@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egrandmaison89
-- 👀 I'm a web developer in my dayjob
-- 🌱 I use Python to automate tasks in my dayjob and scale my sidegig
+- 👀 I'm a web developer
+- 🌱 I use python to automate tasks, webscrape, and scale my sidegig
 - 💞️ I’m always learning. JavaScript, Python, Flask, Django
 
 <!---
