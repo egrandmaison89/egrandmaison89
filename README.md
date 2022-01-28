@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @egrandmaison89
 - 👀 I'm a web developer
-- 🌱 I use python to automate tasks, webscrape, and scale my sidegig
+- 🌱 I use python for automation, webscraping, and scaling my sidegig
 - 💞️ I’m always learning. JavaScript, Python, Flask, Django
 
 <!---
